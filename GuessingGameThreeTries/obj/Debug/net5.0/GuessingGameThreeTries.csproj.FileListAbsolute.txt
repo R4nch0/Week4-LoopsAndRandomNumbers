@@ -1,0 +1,16 @@
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.exe
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.deps.json
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.json
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.genruntimeconfig.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 4\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.AssemblyReference.cache
